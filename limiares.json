@@ -1,0 +1,11 @@
+{
+  "limiares_percentuais_da_renda": {
+    "aluguel": 30,
+    "alimentacao": 20,
+    "transporte": 15,
+    "cartao_credito": 20,
+    "lazer": 10,
+    "assinaturas": 5
+  },
+  "observacao": "Se o valor gasto numa categoria ultrapassar o percentual da renda mensal definido aqui, o motor de regras marca essa categoria como 'fora do padrao' e o Leo dispara o alerta proativo."
+}

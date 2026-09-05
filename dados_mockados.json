@@ -1,0 +1,14 @@
+{
+  "sessao": {
+    "id": "sessao_001",
+    "renda_mensal": 3000.00
+  },
+  "despesas": [
+    { "categoria": "aluguel", "valor": 1200.00, "tipo": "fixa" },
+    { "categoria": "alimentacao", "valor": 600.00, "tipo": "fixa" },
+    { "categoria": "transporte", "valor": 300.00, "tipo": "fixa" },
+    { "categoria": "cartao_credito", "valor": 800.00, "tipo": "divida" },
+    { "categoria": "lazer", "valor": 450.00, "tipo": "variavel" },
+    { "categoria": "assinaturas", "valor": 120.00, "tipo": "variavel" }
+  ]
+}
